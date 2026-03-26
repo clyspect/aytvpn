@@ -14,3 +14,12 @@ Open-source VPN client for Android and iOS.
 ## Project Status
 
 Work in progress.
+
+## Planned roadmap
+
+1. Server setup
+2. Android MVP
+3. Android protocol integrations
+4. iOS MVP
+5. iOS protocol integrations
+6. Testing and release
