@@ -1,0 +1,24 @@
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Android
+.gradle/
+local.properties
+**/build/
+
+# iOS
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Secrets
+.env
+.env.*
+secrets/
+*.pem
+*.key
+*.p12
+*.mobileprovision
